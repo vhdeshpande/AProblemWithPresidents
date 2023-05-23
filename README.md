@@ -1,7 +1,6 @@
-# A Problem with Presidents; a data to information challenge.
+## SOLUTION: A Problem with Presidents; a data to information challenge.
 
-- Author: Christopher P. Barnes
-- Date: September 28, 2021
+LINK: https://github.com/senrabc/a_problem_with_presidents/tree/main
 
 ## Problem Statement:
 
@@ -14,11 +13,3 @@ Using the given data and Python or R; add new variables called year_of_birth, li
 Then using your newly created data calculate the mean, weighted average, median, mode, max, min and standard deviation of lived_days for your data set. Output these measures in a well formatted table. Then, make a plot of a type that you think best shows the distribution of this data.
 
 Assemble your tables and plot into a single report with a title, author and date. Start the report with a 3 or 4 sentence summary of what you found, the body should have your tables and plot and any commentary about your methods or assumptions you think the reader would need to know. Finish the report with a conclusions section, where you state the conclusions you reached through this analysis.
-
-To finish commit all your code and your report to your personal Github repository and then email back CTS-IT with a link to your completed problem.
-
-Good Luck!   
-
-
-References:
-https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)/13%3A_Statistics_and_Probability_Background/13.01%3A_Basic_statistics-_mean%2C_median%2C_average%2C_standard_deviation%2C_z-scores%2C_and_p-value
